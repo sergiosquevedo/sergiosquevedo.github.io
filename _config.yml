@@ -1,19 +1,19 @@
-title:            Site Title
-description:      Describe your website.
+title:            In muñón we trust
+description:      My amazing muñón is fun.
 # Your site's domain goes here. Leave localhost server or blank when working locally.
 url:              http://localhost:4000
 disqus_shortname:
 
 # Owner/author information
 owner:
-  name:           Your Name
-  avatar:         bio-photo.jpg
-  bio:            "Describe your self."
-  email:          your@email.com
+  name:           Sergio Sánchez
+  avatar:         sergioSanchez.jpg
+  bio:            My amazing muñón is fun
+  email:          sanquev@gmail.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter:
-  facebook:
-  github:
+  twitter: soyunrandom
+  facebook: sergiosquevedo
+  github: sergiosquevedo
   stackoverflow:
   linkedin:
   instagram:
@@ -37,13 +37,12 @@ bing_verify:
 links:
   - title: About
     url: /about/
+  - title: Resume
+    url: /resume/
   - title: Posts
     url: /posts/
   - title: Theme Setup
     url: /theme-setup/
-  - title: Made Mistakes
-    url: http://mademistakes.com
-    external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/New_York
