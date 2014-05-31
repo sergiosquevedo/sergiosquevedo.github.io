@@ -8,7 +8,6 @@ comments: true
 
 ##Principios del Manifiesto Ágil
 
-Aquí irá el resto del POST.
 
 Puedes encontrar y firmar el manifiesto ágil en la siguiente dirección: [Manifiesto ágil](http://agilemanifesto.org/iso/es/manifesto.html)
 
