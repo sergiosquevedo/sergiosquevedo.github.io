@@ -12,11 +12,6 @@ image:
   creditlink: http://www.hemocianina.webs.com/
 ---
 
+[Hemocianina](http://www.hemocianina.webs.com/){:target="_blank"} nace el otoño de 2005, fruto de la inquietud de un grupo de jóvenes por la creación artística.
 
-Añadir una página de proyectos audiovisuales donde hable un poco de Hemocianina y lo que hacemos
-
-* ALÉGRAME EL DÍA
-* RED
-* EVIL IMPULSE
-* HOMBRES MÁQUINA
-* FAMILIA FELÍZ
+Actualmente, desarrolla proyectos audiovisuales de ficción, videoarte y videoclips, además de colaborar con otras producciones.

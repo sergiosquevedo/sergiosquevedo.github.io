@@ -36,7 +36,10 @@
 
 <div id="index">
   <h1>{{ page.title }}</h1>
-  <h3> Últimos proyectos</h3>
+    <div class="article-wrap">
+      {{ content }}
+    </div>
+  <h3> Nuestros proyectos</h3>
   {% for post in site.posts %}  
     <article>
       {% if post.category %}
