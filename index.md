@@ -1,7 +1,7 @@
 ---
 layout: home
-description: "A responsive Jekyll theme with editorial tendencies by designer Michael Rose."
-tags: [Jekyll, theme, responsive, blog, template]
+description: "Blog personal de Sergio Sánchez Quevedo. Un rincón dónde hablar de desarrollo de software en general y de ruby en particular."
+tags: [Sergio, Ruby]
 image:
   feature: sumBinario2.png
   credit: Kat's Gaze Design
