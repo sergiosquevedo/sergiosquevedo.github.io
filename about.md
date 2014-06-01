@@ -1,30 +1,25 @@
 ---
 layout: page
 permalink: /about/
-title: About me
-tagline: Minimal Mistakes, a Jekyll Theme
+title: Sobre mí
+tagline: Un poco sobre mí
 tags: [about, Sergio, Sobre mi]
 modified: 31-05-2014
-comments: true
+comments: false
 image:
   feature: sumBinario2.png
   credit: Kat's Gaze Design
   creditlink: http://www.katsgazedesign.webs.com/
 ---
 
-Jekyll is pretty rad and figured releasing a cleaned up version of [my site](http://mademistakes.com)[^1] as a theme for others to hack and build on would be fun. So here be that theme --- I call it **Minimal Mistakes**, a responsive Jekyll theme with large featured images and solid typography. 
+¡Hola! Soy Sergio, nacido un buen día de abril del año 86, en un pequeño pueblo de La Mancha llamado Membrilla. Desde pequeño me han fascinado los ordenadores por lo que, en cuanto conseguí uno, no paré de jugar en el hasta que la miopía hizo mella en mí. Algo mas tarde descubrí que un ordenador tenía mas capacidad aparte de ejecutar juegos... y así fué como entré de cabeza en el mundo de la **programación**.
 
-## Minimal Mistakes is all about:
+### En qué ando metido
+Actualmente me encuentro cacharreando como programador senior (**PL-SQL**) en el núcleo de un nuevo sistema emisor de seguros. Dicho aplicativo se apoya en un núcleo **Oracle** y un frontal escrito en **JSF**, que consume la información de los distintos servicios de núcleo gracias a la orquestación de una red de **Web Services**. La finalidad de esta [arquitectura orientada a servicios](http://es.wikipedia.org/wiki/Arquitectura_orientada_a_servicios){:target="_blank"} (**SOA**) es conseguir un ecosistema reutilizable de aplicaciones.
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 8+ and all modern browsers. 
-* Minimal embellishments --- content first.
-* Large feature images for posts and pages.
-* Author sidebar to pimp your bio, photo[^2], and social media links.
-* Simple and clear permalink structure *(ie: domain.com/category/post-title)*
 
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
+### A qué dedico mi tiempo libre
+De un tiempo a esta parte, he sentido una vez mas la llamada de la web. Y esa llamada me habló en un lenguaje llamado [**Ruby**](https://www.ruby-lang.org/es/){:target="_blanck"}. No supe resistirme por lo que en cuanto tengo un rato libre me gusta practicar y juguetear en este lenguaje.
 
-[^1]: Since open sourcing this theme I have released a couple other Jekyll themes. My website [Made Mistakes](http://mademistakes.com) is currently using a modified version of my [So Simple Theme](http://mmistakes.github.io/so-simple-theme/).
+Pero no todo en mi vida es **informática**. El **cine** es otra de mis pasiones e intento aportar mi granito de arena a este arte junto a los amigos de [**Hemocianina**](http://www.hemocianina.webs.com/){:target="_blank"}. Con ellos me he embarcado en varios proyectos que me han aportado grandes experiencias(Y más que vendrán) personales y profesionales.
 
-[^2]: Fancy avatars provided by [Brandon Mathis](http://brandonmathis.com/projects/fancy-avatars/demo/) under a [Creative Commons Attribution 3.0 License](http://creativecommons.org/licenses/by/3.0/).

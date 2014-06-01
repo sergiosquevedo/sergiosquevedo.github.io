@@ -1,14 +1,15 @@
 title:            In muñón we trust
-description:      My amazing muñón is fun.
+description:      "Blog personal de Sergio Sánchez Quevedo. Un rincón dónde hablar de desarrollo de software en general y de ruby en particular."
 # Your site's domain goes here. Leave localhost server or blank when working locally.
 url:              http://localhost:4000
+#Para agregar comentarios al blog, una vez lanzado el dominio registrarse en --> https://disqus.com/admin/create/
 disqus_shortname:
 
 # Owner/author information
 owner:
   name:           Sergio Sánchez
   avatar:         sergioSanchez.jpg
-  bio:            My amazing muñón is fun
+  bio:            "Vecino, hermano, picateclas muñonero"
   email:          sanquev@gmail.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter: soyunrandom
@@ -37,12 +38,10 @@ bing_verify:
 links:
   - title: Sobre mí
     url: /about/
-  - title: Hemocianina
-    url: /audiovisual/
   - title: Posts
     url: /posts/
-  - title: Theme Setup
-    url: /theme-setup/
+  - title: Hemocianina
+    url: /hemocianina/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Europe/Madrid
