@@ -1,7 +1,7 @@
 title:            In muñón we trust
 description:      "Blog personal de Sergio Sánchez Quevedo. Un rincón dónde hablar de desarrollo de software en general y de ruby en particular."
 # Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              http://localhost:4000
+url:              
 #Para agregar comentarios al blog, una vez lanzado el dominio registrarse en --> https://disqus.com/admin/create/
 disqus_shortname:
 
