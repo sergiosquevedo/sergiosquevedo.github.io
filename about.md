@@ -5,7 +5,7 @@ title: Sobre mí
 tagline: Un poco sobre mí
 tags: [about, Sergio, Sobre mi]
 modified: 31-05-2014
-comments: false
+comments: true
 image:
   feature: sumBinario2.png
   credit: Kat's Gaze Design
