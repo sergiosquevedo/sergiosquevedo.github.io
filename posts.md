@@ -1,7 +1,7 @@
 ---
 layout: post-index
 permalink: /posts/
-title: Bitácora
+title: Archivo
 tagline: A List of Posts
 tags: [blog]
 ---

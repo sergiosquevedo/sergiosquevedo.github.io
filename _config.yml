@@ -1,7 +1,7 @@
-title:            In muñón we trust
+title:            Sergio Sánchez Quevedo
 description:      "Blog personal de Sergio Sánchez Quevedo. Un rincón dónde hablar de desarrollo de software en general y de ruby en particular."
 # Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              http://sergiosquevedo.github.io
+url:              sergiosquevedo.github.io
 #Para agregar comentarios al blog, una vez lanzado el dominio registrarse en --> https://disqus.com/admin/create/
 disqus_shortname: sergiosquevedo
 
@@ -36,12 +36,14 @@ bing_verify:
 # Links to include in top navigation
 # For external links add external: true
 links:
+  - title: Inicio
+    url: /inicio/
   - title: Sobre mí
     url: /about/
-  - title: Posts
-    url: /posts/
   - title: Hemocianina
     url: /hemocianina/
+  - title: Archivo
+    url: /posts/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Europe/Madrid
